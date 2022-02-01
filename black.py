@@ -10,7 +10,7 @@ ingfo = (
 """%s
  • Info script :
  	
- - author      : Romi Afrizal
+ - author      : ROSE OF DARKNESS
  - facebook    : facebook.com/romi.afrizal.102
  - fanspage    : facebook.com/100022086172556
  - whatsap     : +6282371648186
