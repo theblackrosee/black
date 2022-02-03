@@ -1,21 +1,8 @@
 #!/usr/bin/python3
 #-*-coding:utf-8-*-
-# Made With ❤️ By Dapunta And XNSCODE Project
-# Update V0.1
-
-# Copyright© Dapunta ID 2021
-# 100% Open Source Code
-
-# Author : Dapunta Adyapaksi R.
-# Facebook (Dapunta Khurayra X)   : Facebook.com/Dapunta.Khurayra.X
-# Instagram (☬ 𝐀𝐧𝐨𝐧𝐲𝐦 𝟒𝟎𝟒 ☬)    : Instagram.com/ratya.anonym.id
-# Whatsapp (Dapunta Bot_Key)      : +6282245780524
-# YouTube (Xayonara.ID)           : Youtube.com/channel/UCZqnZlJ0jfoWSnXrNEj5JHA
-
-# Free Recode For Personal Use
-# Bebas Recode Untuk Penggunaan Pribadi
-# Izin Terlebih Dahulu Apabila Ingin Re-Upload
-# Jangan Jual Belikan File Source Code Ini !
+#author asli dapunta
+#code byk dapunta
+#record by al
 
 ### Import Module
 import requests,sys,bs4,os,random,time,json
@@ -56,9 +43,9 @@ _U_ = "\x1b[0;95m" # Ungu
 ### Logo
 _logo_line_1_ = ('%s ___  __  __ ___ ___ '%(_P_))
 _logo_line_2_ = ('%s|   \|  \/  | _ ) __| %s┌─────────────────────────┐'%(_P_,_U_))
-_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• Code By Dapunta •   %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sGithub.com/Dapunta/dmbf %s│'%(_P_,_U_,_P_,_U_))
-_logo_line_5_ = ('%s XNSCODE Team 2021    └─────────────────────────┘'%(_U_))
+_logo_line_3_ = ('%s| |) | |\/| | _ \ _|  %s│   %s• ROSE OF DARKNESS•   %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_4_ = ('%s|___/|_|  |_|___/_|   %s│ %sB_L_A_C_K_R_O_S_E_0910_ %s│'%(_P_,_U_,_P_,_U_))
+_logo_line_5_ = ('%s ARGECA TEAM CODE 2022  └─────────────────────────┘'%(_U_))
 def _my_logo_():
     _dapunta_cici_(_logo_line_1_)
     _dapunta_cici_(_logo_line_2_)
@@ -75,6 +62,7 @@ ua_vivo    = 'Mozilla/5.0 (Linux; Android 11; vivo 1918) AppleWebKit/537.36 (KHT
 ua_oppo    = 'Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 ua_samsung = 'Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.121 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/35.0.0.48.273;]'
 ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
+ua_redmi   = 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 5A Build/N2G47H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile Safari/537.36]'
 
 ### Penampungan
 _id_tampung_ = []
